@@ -4,9 +4,13 @@
   
   ## 🚀 Data Science Engineer | Python Developer | ML Enthusiast
   
-  **32 года | г.Севастополь | Трансформирую данные в бизнес-решения**
+  **32 года | Москва | Трансформирую данные в бизнес-решения**
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%93%8A+Data+Science+Specialist;%F0%9F%92%A1+Problem+Solver)
+
+  ### 🤝 Готов к новым вызовам и интересным проектам
+  
+  **💬 Давайте создавать будущее вместе!**
 
 </div>
 
