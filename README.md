@@ -8,11 +8,27 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Python+Developer;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%93%8A+Data+Science+Specialist;%F0%9F%92%A1+Problem+Solver)
 
-  ### 🤝 Готов к новым вызовам и интересным проектам
-  
-  **💬 Давайте создавать будущее вместе!**
+---
+
+## 📞 Давайте создавать будущее вместе!
+
+<div align="center">
+
+### 🤝 Готов к новым вызовам и интересным проектам
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Jazzyflavor)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mrjazzyk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jazzyflavor)
+
+**💬 Открыт для обсуждения:**
+- 🤝 Возможностей трудоустройства
+- 💡 Интересных проектов в Data Science
+- 🎓 Менторства и обмена опытом
+- 🚀 Коммерческого сотрудничества
 
 </div>
+
+---
 
 ---
 
@@ -210,26 +226,6 @@
 - [ ] 📝 **Написать 12 технических статей** о Machine Learning
 - [ ] 🎤 **Выступить на конференции** по Data Science
 - [ ] 🌟 **Запустить open-source проект** с 100+ звезд
-
----
-
-## 📞 Давайте создавать будущее вместе!
-
-<div align="center">
-
-### 🤝 Готов к новым вызовам и интересным проектам
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Jazzyflavor)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mrjazzyk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jazzyflavor)
-
-**💬 Открыт для обсуждения:**
-- 🤝 Возможностей трудоустройства
-- 💡 Интересных проектов в Data Science
-- 🎓 Менторства и обмена опытом
-- 🚀 Коммерческого сотрудничества
-
-</div>
 
 ---
 
